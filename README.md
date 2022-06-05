@@ -4,11 +4,11 @@
 <h3 align="left">🚀 I have a passion for programming and tecnology! 🚀</h3>
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-    - <p> 🎓 <b>My university:<b> Infomation Technology University.</p>
-    - <p> 💻 <b>My major:<b> E-Commerce.</p>
-    - <p> 📚 <b>I'm, currently learning:<b> Back-end development with Java, PhP.</p>
-    - <p> ℹ️ <b>Hobbies:<b> Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</p>
-    - <p> 💬 <b>Ask me about:<b> Anything, honestly, I love knowledge and learning new things.</p
+        <p> 🎓 <b>My university:<b> Infomation Technology University.</p>
+        <p> 💻 <b>My major:<b> E-Commerce.</p>
+        <p> 📚 <b>I'm, currently learning:<b> Back-end development with Java, PhP.</p>
+        <p> ℹ️ <b>Hobbies:<b> Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</p>
+        <p> 💬 <b>Ask me about:<b> Anything, honestly, I love knowledge and learning new things.</p
 </div>
 
 ---
