@@ -4,8 +4,7 @@
 <h3 align="left">🚀 I have a passion for programming and tecnology! 🚀</h3>
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-  
-        - • 🎓 <b>My university:<b> Infomation Technology University.</p>
+        <p> • 🎓 <b>My university:<b> Infomation Technology University.</p>
         <p> • 💻 <b>My major:<b> E-Commerce.</p>
         <p> • 📚 <b>I'm, currently learning:<b> Back-end development with Java, PhP.</p>
         <p> • ℹ️ <b>Hobbies:<b> Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</p>
@@ -14,7 +13,7 @@
             
 ---
 
-### <h2>Connect with me!</h2>
+<h3>Connect with me!</h3>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) 
 [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/)  
