@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Back-end development with Java, PhP.**
 
-- ⚡ Hobbies [Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸](Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸)
+- ⚡ Hobbies: Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸
 
-- 💬 Ask me about **Anything, honestly, I love knowledge and learning new things.**
+- 💬 Ask me about: **Anything, honestly, I love knowledge and learning new things.**
 
-- 📫 How to reach me **trantuyhoa@gmail.com**
+- 📫 How to reach me: **trantuyhoa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
