@@ -1,4 +1,4 @@
-<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=250 />
+<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=350 />
 <div align="left">
     <h1 align="left">Hi 👋, I'm Hoa Tran</h1>
     ![Profile views](https://gpvc.arturio.dev/gabrlcj)
