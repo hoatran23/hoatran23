@@ -6,10 +6,10 @@
     <h3>👨🏽‍💻 About me:</h3>
     <p>• 🎓 <b>My university: Infomation Technology University<b></p>
     <p>• 💻 <b>My major: E-Commerce<b></p>
-    <p>• 📚 I'm, currently learning: <b>Back-end development with Java, PhP.</b></p>
-    <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</b></p>
-    <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-    <p>• 📫 How to reach me: <b>trantuyhoa2307@gmail.com</b></p>
+    <p>• 📚 <b>I'm, currently learning: Back-end development with Java, PhP.</b></p>
+    <p>•  ℹ️  <b>Hobbies: Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</b></p>
+    <p>• 💬 <b>Ask me about: Anything, honestly, I love knowledge and learning new things</b></p>
+    <p>• 📫 <b>How to reach me: trantuyhoa2307@gmail.com</b></p>
 </div>
 
 ---
