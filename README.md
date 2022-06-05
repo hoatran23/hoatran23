@@ -5,7 +5,7 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
   
-        <p> • 🎓 <b>My university:<b> Infomation Technology University.</p>
+        - • 🎓 <b>My university:<b> Infomation Technology University.</p>
         <p> • 💻 <b>My major:<b> E-Commerce.</p>
         <p> • 📚 <b>I'm, currently learning:<b> Back-end development with Java, PhP.</p>
         <p> • ℹ️ <b>Hobbies:<b> Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</p>
