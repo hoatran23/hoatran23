@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/hoa-tran-97620b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoa-tran-97620b217" height="30" width="40" /></a>
 <a href="https://kaggle.com/tuyhotrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tuyhotrn" height="30" width="40" /></a>
-<a href="https://fb.com/hoatrantuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoatrantuy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
