@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end development with Java, PhP.**
 
-- ⚡ Hobbies (Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸)
+- ⚡ Hobbies Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸
 
 - 💬 Ask me about **Anything, honestly, I love knowledge and learning new things.**
 
