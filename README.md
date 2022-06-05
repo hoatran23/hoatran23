@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoa Tran</h1>
 <h3 align="center">🚀 I have a passion for programming and tecnology! 🚀</h3>
 
-<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=450 />
+<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoatran23&label=Profile%20views&color=0e75b6&style=flat" alt="hoatran23" /> </p>
 
