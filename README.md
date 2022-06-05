@@ -10,7 +10,8 @@
         <p> • ℹ️ <b>Hobbies:<b> Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</p>
         <p> • 💬 <b>Ask me about:<b> Anything, honestly, I love knowledge and learning new things.</p
 </div>
-<br>
+
+            
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
