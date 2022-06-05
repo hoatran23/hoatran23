@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoa Tran</h1>
 <h3 align="center">🚀 I have a passion for programming and tecnology! 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoatran23" alt="hoatran23" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoatran23&label=Profile%20views&color=0e75b6&style=flat" alt="hoatran23" /> </p>
 
 - 🎓 I’m currently studying at [Infomation Technology University.](https://www.uit.edu.vn/)
 
