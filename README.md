@@ -1,19 +1,43 @@
-<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=350 />
+# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<h1 align="left">Hi 👋, I'm Hoa Tran</h1>
+
+<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 <div align="left">
-    <h1 align="left">Hi 👋, I'm Hoa Tran</h1>
-    ![Profile views](https://gpvc.arturio.dev/gabrlcj)
-    <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
-    <div align="left">
-        <h3>👨🏽‍💻 About me:</h3>
-        <p>• 🎓 My university: <b>Infomation Technology University<b></p>
-        <p>• 💻 My major: <b>E-Commerce<b></p>
-        <p>• 📚 I'm, currently learning: <b>Back-end development with Java, PhP.</b></p>
-        <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</b></p>
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>trantuyhoa2307@gmail.com</b></p>
-    </div>
+    <h3>👨🏽‍💻 About me:</h3>
+    <p>• 🎓 My university: <b>Infomation Technology University<b></p>
+    <p>• 💻 My major: <b>E-Commerce<b></p>
+    <p>• 📚 I'm, currently learning: <b>Back-end development with Java, PhP.</b></p>
+    <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸 | Swimming 🏊</b></p>
+    <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+    <p>• 📫 How to reach me: <b>trantuyhoa2307@gmail.com</b></p>
 </div>
+
 ---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact with me 📝
+
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
+<br />
+
+---
+
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -37,20 +61,39 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<br/>
+
 ---
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
+
+---
+
+### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+
+---
+
+[website]: http://bilgehangecici.site/
+[instagram]: https://www.instagram.com/bilgehangecici
+[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[Spotify]: https://open.spotify.com/user/11153360645
 
 
-<div>
-    <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
-    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="DEV"></a>
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-</div>
-------
-Credit: [gabrlcj](https://github.com/gabrlcj)
-Last Edited on: 23/10/2021
+----
+Credit: [Bgstatic](https://github.com/Bgstatic)
+
+Last Edited on: 23/09/2020
