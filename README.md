@@ -1,4 +1,4 @@
-<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=450 />
+<img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=250 />
 <h1 align="left">Hi 👋, I'm Hoa Tran</h1>
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
@@ -38,78 +38,6 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ---
-<div class="">
-    ## 🛠️ My Skills
-    ### 👉 Programming languages
-    <p align="center">
-
-        &emsp;
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-            <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-        </a>
-        &emsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-        </a>
-        &emsp;
-        <a href="https://www.java.com" target="_blank">
-            <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-        </a>
-        &emsp;
-        <a href="https://www.python.org" target="_blank">
-            <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-        </a>
-        &emsp;
-        <a href="https://www.cprogramming.com/" target="_blank">
-            <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?style=plastic&logo=PHP&logoColor=white">
-        </a>
-    </p>
-    ### 👉 Frontend Development
-    <p align="center">
-        &emsp;
-        <a href="https://www.w3.org/html/" target="_blank">
-            <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-        </a>
-        &emsp;
-        <a href="https://www.w3schools.com/css/" target="_blank">
-            <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-        </a>
-    </p>
-    ### 👉 Software & Tools
-    <p align="center">
-        &emsp;
-        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    </p>
-    ### 👉 IDEs
-    <p align="center">
-        &emsp;
-        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-        &emsp;
-        <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-        &emsp;
-        <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-        &emsp;
-        <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-    </p>
-</div>
-___
-
 <div align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
