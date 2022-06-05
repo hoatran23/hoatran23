@@ -1,16 +1,19 @@
 <img align="right" src="image/profile.png" alt="Illustration" title="Illustration Storyset" width=250 />
-<h1 align="left">Hi 👋, I'm Hoa Tran</h1>
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
-<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 <div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
-    <p>• 🎓 My university: <b>Infomation Technology University<b></p>
-    <p>• 💻 My major: <b>E-Commerce<b></p>
-    <p>• 📚 I'm, currently learning: <b>Back-end development with Java, PhP.</b></p>
-    <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸 | Swimming 🏊</b></p>
-    <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-    <p>• 📫 How to reach me: <b>trantuyhoa2307@gmail.com</b></p>
-</div><br>
+    <h1 align="left">Hi 👋, I'm Hoa Tran</h1>
+    ![Profile views](https://gpvc.arturio.dev/gabrlcj)
+    <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
+    <div align="left">
+        <h3>👨🏽‍💻 About me:</h3>
+        <p>• 🎓 My university: <b>Infomation Technology University<b></p>
+        <p>• 💻 My major: <b>E-Commerce<b></p>
+        <p>• 📚 I'm, currently learning: <b>Back-end development with Java, PhP.</b></p>
+        <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸 | Swimming 🏊</b></p>
+        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+        <p>• 📫 How to reach me: <b>trantuyhoa2307@gmail.com</b></p>
+    </div>
+</div>
+<br>
 
 ---
 
