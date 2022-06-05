@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoatran23&show_icons=true&locale=en&layout=compact" alt="hoatran23" width="41.5%" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoatran23&show_icons=true&locale=en" alt="hoatran23" width="50%"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoatran23&" alt="hoatran23" /></p>
