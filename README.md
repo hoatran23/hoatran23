@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently studying at [Infomation Technology University.](https://www.uit.edu.vn/)
 
-- 🌱 I’m currently learning **Back-end development with Java, PhP.**
+- 🌱 I’m currently learning **Back-end development with Java.**
 
 - ⚡ Hobbies: Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸
 
