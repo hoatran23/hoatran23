@@ -8,15 +8,12 @@
         <p>• 🎓 My university: <b>Infomation Technology University<b></p>
         <p>• 💻 My major: <b>E-Commerce<b></p>
         <p>• 📚 I'm, currently learning: <b>Back-end development with Java, PhP.</b></p>
-        <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸 | Swimming 🏊</b></p>
+        <p>• ℹ️ Hobbies: <b>Music 🎧 | Guitar 🎸 | Football ⚽ | Badminton 🏸</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>trantuyhoa2307@gmail.com</b></p>
     </div>
 </div>
-<br>
-
 ---
-
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
