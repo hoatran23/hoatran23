@@ -13,7 +13,7 @@
 
 - 💬 Ask me about: **Anything, honestly, I love knowledge and learning new things.**
 
-- 📫 How to reach me: **trantuyhoa@gmail.com**
+- 📫 How to reach me: **trantuyhoa2307@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
